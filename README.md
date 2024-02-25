@@ -18,7 +18,13 @@ This ReactJS application leverages GPS, Google Maps API, Rapid API, and Weather 
 - **Tourist Attractions:** Discover popular tourist attractions and points of interest.
 - **Current Weather Forecast:** Get real-time weather updates for the selected location.
 
-## Getting Started
+
+### Installation
+Clone the repository and navigate to the project directory:
+```bash
+git clone https://github.com/draksham/Travel-Advisor
+cd Travel-Advisor
+npm install
 
 ### Running the Application
 
