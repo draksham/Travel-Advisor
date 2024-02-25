@@ -20,13 +20,14 @@ This ReactJS application leverages GPS, Google Maps API, Rapid API, and Weather 
 
 
 ### Installation
+
 Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/draksham/Travel-Advisor
 cd Travel-Advisor
 npm install
 
-### Running the Application
+
 
 Run the application in the development environment:
 
